@@ -1,0 +1,14 @@
+a#scrollUp{
+    background-color: red;
+    right: 0;
+    bottom:20px;
+    color: #fff;
+    padding: 8px 10px 0px;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 5px;
+}
+a#scrollUp:hover{
+    background-color: #00a699;
+
+}
